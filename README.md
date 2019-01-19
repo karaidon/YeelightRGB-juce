@@ -1,4 +1,7 @@
 # YeelightRGB-juce
+
+https://github.com/karaidon/YeelightRGB-juce
+
 Juce Static Lib for communicating with Yeelight RGB bulbs
 
 YeelightRGB-juce is a library for communicating with Yeelight RGB Bulbs. It supports the full communication API as specified
